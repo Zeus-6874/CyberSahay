@@ -5,12 +5,12 @@
   "description": "CyberSahay civic cyber-safety desk â€” Vercel + MongoDB",
   "scripts": {
     "dev": "vercel dev",
-    $³tart": "vercel dev"
+    "start": "vercel dev"
   },
   "dependencies": {
     "mongodb": "~6.19.0"
   },
   "engines": {
-    $®ode": ">=18"
+    "node": ">=18"
   }
 }
