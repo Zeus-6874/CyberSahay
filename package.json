@@ -1,0 +1,16 @@
+{
+  "name": "cybersahay",
+  "version": "1.0.0",
+  "private": true,
+  "description": "CyberSahay civic cyber-safety desk â€” Vercel + MongoDB",
+  "scripts": {
+    "dev": "vercel dev",
+    $³tart": "vercel dev"
+  },
+  "dependencies": {
+    "mongodb": "~6.19.0"
+  },
+  "engines": {
+    $®ode": ">=18"
+  }
+}
